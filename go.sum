@@ -2,3 +2,5 @@ github.com/Kavr0n/dog v0.0.0-20250811203225-49674004c614 h1:EXogOu2XwDS3XFU3Fakg
 github.com/Kavr0n/dog v0.0.0-20250811203225-49674004c614/go.mod h1:R83UfUF18SKCBwME+jvYxZo1kfNYEzdxEGtOSmydzEM=
 github.com/Kavr0n/puppy v0.0.0-20250813130150-94d7eeeaa6e7 h1:T02jAo8bOnFnYfOJl/zjxvsZXoufrDSNI8kexixZN9s=
 github.com/Kavr0n/puppy v0.0.0-20250813130150-94d7eeeaa6e7/go.mod h1:5FQtUe9wWsK9H71FOjFQXPaBVUdROky5Dvkc1q99XcI=
+github.com/Kavr0n/puppy v0.0.0-20250813133216-0f31c775e7ca h1:4qL9RDSR5XEz8kLHkSvuSz8djIksVMKOBjwqZBFriOY=
+github.com/Kavr0n/puppy v0.0.0-20250813133216-0f31c775e7ca/go.mod h1:5FQtUe9wWsK9H71FOjFQXPaBVUdROky5Dvkc1q99XcI=
