@@ -11,4 +11,7 @@ func main() {
 	s2 := puppy.Barks()
 	fmt.Println(s1)
 	fmt.Println(s2)
+
+	s3 := puppy.BigBark()
+	fmt.Println(s3)
 }
