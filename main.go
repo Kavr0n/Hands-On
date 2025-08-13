@@ -7,13 +7,19 @@ import (
 )
 
 func main() {
-	s1 := puppy.Bark()
-	s2 := puppy.Barks()
-	fmt.Println(s1)
-	fmt.Println(s2)
+	// Simple bark
+	bark := puppy.Bark()
+	fmt.Println("Bark:", bark)
 
-	s3 := puppy.BigBark()
-	fmt.Println(s3)
-	s4 := puppy.BigBarks()
-	fmt.Println(s4)
+	// Multiple barks
+	barks := puppy.Barks()
+	fmt.Println("Barks:", barks)
+
+	// Loud bark
+	bigBark := puppy.BigBark()
+	fmt.Println("Big Bark:", bigBark)
+
+	// Multiple loud barks
+	bigBarks := puppy.BigBarks()
+	fmt.Println("Big Barks:", bigBarks)
 }
